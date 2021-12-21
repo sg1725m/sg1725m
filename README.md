@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swikar Gurung
-- 👀 I’m interested in Games Design and AI.
+- 👀 I’m interested in Digital Learning, Games Design, 2D/3D Modelling and AI.
 - 🌱 I’m currently learning C++ and python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: swikargrg@hotmail.com
